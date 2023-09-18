@@ -15,7 +15,7 @@ colegas até que eu compreendi a parte final do código e terminei.
 
 <h3>Link do Video Explicação: </h3>
 <blockquote><h5>Link do Video Explicação</h4>
-<a href="">Video Explicação</a></blockquote> 
+<a href="https://drive.google.com/uc?id=1-IKARg26DpxjP10jb051qNAQf4pRJKOC&export=download">Video Explicação</a></blockquote> 
 
 <h3>Informações do Aluno: </h3>
 <blockquote><h5>Nome: Arthur Ferreira dos Santos</h4>
